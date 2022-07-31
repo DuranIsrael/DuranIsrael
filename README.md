@@ -1,12 +1,21 @@
 ### Hi there 👋
-😁 I'm Duran Israel
-💻 I am interested in DeVOps methodologies and Python
-🎓 Currently learning Jenkins and Ansible
-🤝 I'm lokking to connect and incease my skills with like minded warriors.
-📸 Photography nut! Canon R is my weapon of choice!
-📬 You can reach me at djisrael0521@gmail.com
+* 😁 I'm Duran Israel
+* 💻 I am interested in DeVOps methodologies and Python
+* 🎓 Currently learning Jenkins and Ansible
+* 🤝 I'm lokking to connect and incease my skills with like minded warriors.
+* 📸 Photography nut! Canon R is my weapon of choice!
+* 📬 You can reach me at djisrael0521@gmail.com
 
 You can check out my LinkedIn at https://www.linkedin.com/in/duran-israel/ and my Medium blog at https://medium.com/@duranisrael.
+
+## Skills and Tools
+* AWS
+* Terraform
+* Docker
+* Kubernetes
+* Linux
+* Python
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuranIsrael&show_icons=true&theme=radical)
 
