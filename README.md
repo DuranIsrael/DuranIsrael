@@ -8,7 +8,7 @@
 
 You can check out my LinkedIn at https://www.linkedin.com/in/duran-israel/ and my Medium blog at https://medium.com/@duranisrael.
 
-## Skills and Tools
+## Skills and Experience
 * AWS
 * Terraform
 * Docker
