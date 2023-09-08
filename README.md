@@ -15,6 +15,9 @@ You can check out my LinkedIn at https://www.linkedin.com/in/duran-israel/ and m
 * Kubernetes
 * Linux
 * Python
+* Azure
+* Azure DevOps
+* APIs
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuranIsrael&show_icons=true&theme=radical)
